@@ -19,24 +19,27 @@ To resolve these issues, the data will be normalized into the following tables:
 
 ### Tables and Relationships
 
-1.  **`Vendors` Table:**
-    - Stores vendor identification and contact details.
-    - **Primary Key:** `vendor_id` (Auto-increment).
-2.  **`ItemTypes` Table:**
+1.  **`ItemTypes` Table:**
     - Categorizes products (e.g., Dairy, Produce).
     - **Primary Key:** `item_type_id`.
-3.  **`Products` Table:**
+2.  **`Units` Table:**
+    - Stores units definitions (dozen, bunch, etc.)
+    - **Primary Key:** `unit_id`.
+3.  **`Vendors` Table:**
+    - Stores vendor identification and contact details.
+    - **Primary Key:** `vendor_id` (Auto-increment).
+4.  **`Products` Table:**
     - Stores product definitions, current price, and stock levels.
     - **Primary Key:** `item_num`.
     - **Foreign Key:** `item_type_id` (refers to `ItemTypes`).
-4.  **`Customers` Table:**
+5.  **`Customers` Table:**
     - Stores customer identification.
     - **Primary Key:** `customer_id`.
-5.  **`VendorPurchases` Table:**
+6.  **`VendorPurchases` Table:**
     - Records replenishment from vendors.
     - **Primary Key:** `purchase_id`.
     - **Foreign Keys:** `item_num` (refers to `Products`), `vendor_id` (refers to `Vendors`).
-6.  **`CustomerSales` Table:**
+7.  **`CustomerSales` Table:**
     - Records sales to customers.
     - **Primary Key:** `sale_id`.
     - **Foreign Keys:** `item_num` (refers to `Products`), `customer_id` (refers to `Customers`).
@@ -53,4 +56,5 @@ To resolve these issues, the data will be normalized into the following tables:
 
 
 _Note: The EER Diagram will be represented via the SQL schema implementation._
+
 
