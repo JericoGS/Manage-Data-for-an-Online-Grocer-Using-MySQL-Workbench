@@ -57,6 +57,9 @@ _Note: The EER Diagram will be represented via the SQL schema implementation._
 - Database Verification Queries for Greenspot Grocer
 - Proves that data can be retrieved from multiple tables via JOINs
 
+<img width="830" height="638" alt="imagen" src="https://github.com/user-attachments/assets/b84f19c1-7d7a-484b-b5cc-60e6aee02b2f" />
+
+
 ---
 
 ## 4. Scalability and Benefits
@@ -64,6 +67,7 @@ _Note: The EER Diagram will be represented via the SQL schema implementation._
 - **Integrity:** Foreign keys ensure that we cannot have a sale for a non-existent product or customer.
 - **Efficiency:** Data is stored once. Updates to a vendor's address are done in one place.
 - **Growth:** The system can easily accommodate new features like employee tracking, store locations, or discount codes by adding new tables and relationships without affecting existing data structures.
+
 
 
 
