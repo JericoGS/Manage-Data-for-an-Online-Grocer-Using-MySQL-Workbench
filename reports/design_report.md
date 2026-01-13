@@ -58,7 +58,7 @@ _Note: The EER Diagram will be represented via the SQL schema implementation._
 
 <img width="904" height="669" alt="imagen" src="https://github.com/user-attachments/assets/7c534161-1d24-4d57-a98c-868b4ebfbe25" />
 
----
+--
 
 **load_data.sql**
 - Normalized data for Greenspot Grocer (3NF Version)
@@ -107,6 +107,7 @@ _Note: The EER Diagram will be represented via the SQL schema implementation._
 - **Integrity:** Foreign keys ensure that we cannot have a sale for a non-existent product or customer.
 - **Efficiency:** Data is stored once. Updates to a vendor's address are done in one place.
 - **Growth:** The system can easily accommodate new features like employee tracking, store locations, or discount codes by adding new tables and relationships without affecting existing data structures.
+
 
 
 
